@@ -568,6 +568,9 @@ body {
          .main-text__description{
              width: 350px;
          }
+     .calc-head__select{
+         margin-left:0px;
+     }
          .main-text__sale{
              font-size: 14px;
          }
