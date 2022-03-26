@@ -569,7 +569,7 @@ body {
              width: 350px;
          }
      .calc-head__select{
-         margin-left:0px;
+         margin-left:0px!important;
      }
          .main-text__sale{
              font-size: 14px;
